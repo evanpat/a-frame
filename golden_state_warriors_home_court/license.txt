@@ -1,0 +1,11 @@
+Model Information:
+* title:	Golden State Warriors Home Court
+* source:	https://sketchfab.com/3d-models/golden-state-warriors-home-court-e5a11cec7785455da69919b4edf058e8
+* author:	Wayne Pearce (https://sketchfab.com/WaynePearce10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Golden State Warriors Home Court" (https://sketchfab.com/3d-models/golden-state-warriors-home-court-e5a11cec7785455da69919b4edf058e8) by Wayne Pearce (https://sketchfab.com/WaynePearce10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
