@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chibi Sloth v2 (Animated & Rigged)
+* source:	https://sketchfab.com/3d-models/chibi-sloth-v2-animated-rigged-7709fc6d7b6d449a861e6931c3e8059c
+* author:	DreamNoms (https://sketchfab.com/DreamNoms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chibi Sloth v2 (Animated & Rigged)" (https://sketchfab.com/3d-models/chibi-sloth-v2-animated-rigged-7709fc6d7b6d449a861e6931c3e8059c) by DreamNoms (https://sketchfab.com/DreamNoms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
